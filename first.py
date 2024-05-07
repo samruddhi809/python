@@ -3,8 +3,8 @@ print("Hello ")
 print(" hyy  I am from DYP Varale")
 
 # Python3 program to add two numbers
-num1 = 15
-num2 = 12
+num1 = 10
+num2 = 10
  
 # Adding two nos
 sum = num1 + num2
